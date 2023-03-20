@@ -6,7 +6,8 @@
       "scripts": {
             "start": "node dist/src/index.js",
             "build": "tsc",
-            "test": "jest"
+            "test": "jest",
+            "test:e2e": "jest e2e.test.ts"
       },
       "keywords": [
             "express",
