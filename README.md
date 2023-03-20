@@ -44,7 +44,7 @@ To view a list of all Todos, send a GET request to `/todos`.
 
 ## Running Tests
 
-To run the unit tests, use `npm run test:unit`. To run the end-to-end tests, use `npm run test:e2e`.
+To run the unit tests, use `npm run test`. To run the end-to-end tests, use `npm run test:e2e`.
 
 ## Docker
 
